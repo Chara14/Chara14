@@ -1,4 +1,4 @@
-- Hi, I'm Chara, but u can call me by Samuel or Tilápia
+- Hi, I'm Chara, but u can call me by Samuel or Tilapia
 - I Like to play some games, but I'm trying to be a programmer like my dad
 - I'm brazilian
 - I know something of english(like I'm using all Ik to do this text)
