@@ -1,5 +1,5 @@
 - Hi, I'm Chara, but u can call me by Samuel or Tilapia
-- I Like to play some games, but I'm trying to be a programmer like my dad
-- I'm brazilian
-- I know something of english(like I'm using all Ik to do this text)
-- Probally I'll need some help, so if I call for help, I'm hope some1'll be here to help me!
+- I'm here to share my projects and learn more about programming with another people.
+- I'm brazilian and I speak English and Portuguese(but my primary language is Portuguese)
+
+
